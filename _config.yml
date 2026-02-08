@@ -1,36 +1,21 @@
-# Site settings
-title: Mikkel Winther Pedersen – genetiker og geograf
+title: Mikkel Winther Pedersen
 description: >
-  Forsker og formidler med fokus på fortidens natur, klima og menneskers
-  aktiviteter, undersøgt gennem analyser af gammelt DNA bevaret i jord
-  og sedimenter.
+  Genetiker og geograf. Forsker og formidler med fokus på fortidens
+  natur, klima og menneskers aktiviteter, undersøgt gennem analyser
+  af gammelt DNA bevaret i jord og sedimenter.
 
-url: "https://mikkelwintherpedersen.github.io"
+url: "https://miwipe.github.io"
 baseurl: ""
 
-# Author
 author:
   name: Mikkel Winther Pedersen
 
-# Build settings
-markdown: kramdown
 theme: minima
 
-# Blog settings
-permalink: /blog/:year/:month/:day/:title/
-paginate: 5
-paginate_path: "/blog/page:num/"
+markdown: kramdown
 
-# Plugins (GitHub Pages-compatible)
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate
 
-# Language / timezone
 lang: da
 timezone: Europe/Copenhagen
-
-# Exclude files from build
-exclude:
-  - README.md
