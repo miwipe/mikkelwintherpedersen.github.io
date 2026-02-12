@@ -4,11 +4,11 @@ description: >
   natur, klima og menneskers aktiviteter, undersøgt gennem analyser
   af gammelt DNA bevaret i jord og sedimenter.
 
-baseurl: "/mikkelwintherpedersen.github.io"
+baseurl: ""
 url: "https://miwipe.github.io"
 
 author:
-  name: Mikkel Winther Pedersen
+  name: "Mikkel Winther Pedersen"
 
 theme: minima
 
