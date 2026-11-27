@@ -1,0 +1,52 @@
+{
+  "index.html": {
+    "da": {
+      "title": "Mikkel Winther Pedersen – forsker og foredragsholder om DNA",
+      "description": "Mikkel Winther Pedersen, lektor ved Københavns Universitet. Forskning og foredrag om gammelt DNA, fortidens natur, klima og biodiversitet."
+    },
+    "en": {
+      "title": "Mikkel Winther Pedersen – ancient DNA researcher and speaker",
+      "description": "Mikkel Winther Pedersen, Associate Professor at the University of Copenhagen. Research and talks on ancient DNA, past ecosystems, climate and biodiversity."
+    }
+  },
+  "about.html": {
+    "da": {
+      "title": "Om mig og CV | Mikkel Winther Pedersen",
+      "description": "Læs om Mikkel Winther Pedersens forskning, uddannelse og karriere inden for gammelt miljø-DNA. Hent CV og find kontaktoplysninger og LinkedIn."
+    },
+    "en": {
+      "title": "About and CV | Mikkel Winther Pedersen",
+      "description": "Explore Mikkel Winther Pedersen’s research, education and career in ancient environmental DNA. Download his CV and find contact details and LinkedIn."
+    }
+  },
+  "group.html": {
+    "da": {
+      "title": "Forskningsgruppen | Mikkel Winther Pedersen",
+      "description": "Mød Palaeo-Environmental Genomics Group ved Københavns Universitet. Navne, portrætter og forskningsområder for gruppens forskere."
+    },
+    "en": {
+      "title": "Palaeo-Environmental Genomics Group | Mikkel Winther Pedersen",
+      "description": "Meet the Palaeo-Environmental Genomics Group at the University of Copenhagen. Researcher profiles, portraits and areas of expertise."
+    }
+  },
+  "talks.html": {
+    "da": {
+      "title": "Foredrag om DNA og fortidens natur | Mikkel Winther Pedersen",
+      "description": "Foredrag om verdens ældste DNA, Grønlands fortid og samspillet mellem mennesker, klima og biodiversitet. Se tidligere foredrag og kontakt Mikkel."
+    },
+    "en": {
+      "title": "Talks on ancient DNA and past ecosystems | Mikkel Winther Pedersen",
+      "description": "Talks on the world’s oldest DNA, ancient Greenland and the relationship between people, climate and biodiversity. Explore past talks and get in touch."
+    }
+  },
+  "press.html": {
+    "da": {
+      "title": "Presse, billeder og formidling | Mikkel Winther Pedersen",
+      "description": "Information til journalister: kontakt Mikkel Winther Pedersen, hent portrætfoto, biografi og CV, og se eksempler på dokumentarfilm og formidling."
+    },
+    "en": {
+      "title": "Press, portraits and outreach | Mikkel Winther Pedersen",
+      "description": "Information for journalists: contact Mikkel Winther Pedersen, download a portrait, biography and CV, and explore documentaries and public engagement."
+    }
+  }
+}

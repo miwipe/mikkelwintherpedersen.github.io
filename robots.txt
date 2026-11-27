@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miwipe.github.io/mikkelwintherpedersen.github.io/sitemap.xml

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Shyamsundar Ravishankar",
+    "role": "Postdoctoral researcher",
+    "bio": "Shyamsundar holds a PhD from the University of Adelaide and specialises in ancient DNA and population genetics.",
+    "image": "assets/shyam.jpg",
+    "profile": "https://www.linkedin.com/in/shyamsundar-ravishankar/"
+  },
+  {
+    "name": "Nicola Vogel",
+    "role": "Postdoctoral researcher",
+    "bio": "Nicola develops methods for analysing ancient environmental DNA and is an expert in this field.",
+    "image": "assets/nicola-vogel.jpg",
+    "profile": "https://www.linkedin.com/in/nicola-alexandra-vogel-4333931b6/"
+  },
+  {
+    "name": "Michelle (Yuanyu) Cheng",
+    "role": "Postdoctoral researcher",
+    "bio": "Michelle is a geographer with a PhD from McGill University and expertise in analysing environmental DNA from lake sediments.",
+    "image": "assets/michelle-cheng.jpg",
+    "profile": "https://www.linkedin.com/in/yuanyu-cheng-b3829b1aa/"
+  },
+  {
+    "name": "Nare Ngoepe",
+    "role": "Postdoctoral researcher",
+    "bio": "Nare studies past aquatic ecosystems and biodiversity using fish fossils and ancient DNA recovered from lake sediments.",
+    "image": "assets/nare-ngoepe.jpg",
+    "profile": "https://researchprofiles.ku.dk/en/persons/dora-nare-ngoepe/",
+    "profile_label": "UCPH profile"
+  },
+  {
+    "name": "Hannah-Marie Martiny",
+    "role": "Postdoctoral researcher",
+    "bio": "Hannah holds a PhD from the Technical University of Denmark (DTU) and specialises in bacteria and ancient environmental DNA.",
+    "image": "assets/hannah-marie-martiny.jpg",
+    "profile": "https://www.linkedin.com/in/hmmartiny/"
+  }
+]

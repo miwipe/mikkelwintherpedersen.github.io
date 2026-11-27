@@ -1,0 +1,92 @@
+[
+  {
+    "number": 19,
+    "title": "Portrait in colour",
+    "group": "portraits",
+    "image": "assets/mikkel-winther-pedersen-19.jpg",
+    "download": "downloads/mikkel-winther-pedersen-19.jpg",
+    "width": 4937,
+    "height": 7402,
+    "credit": "Nicolai West",
+    "source": "Profile_Pictures/Mikkel-Winther-Pedersen-Portrait-FA2.jpg"
+  },
+  {
+    "number": 20,
+    "title": "Portrait in black and white",
+    "group": "portraits",
+    "image": "assets/mikkel-winther-pedersen-20.jpg",
+    "download": "downloads/mikkel-winther-pedersen-20.jpg",
+    "width": 4937,
+    "height": 7402,
+    "credit": "Nicolai West",
+    "source": "Profile_Pictures/Mikkel-Winther-Pedersen-Portrait-FA2sh.jpg"
+  },
+  {
+    "number": 27,
+    "title": "Wide portrait",
+    "group": "portraits",
+    "image": "assets/mikkel-winther-pedersen-27.jpg",
+    "download": "downloads/mikkel-winther-pedersen-27.jpg",
+    "width": 2048,
+    "height": 1485,
+    "credit": "Nicolai West",
+    "source": "Profile_Pictures/Mikkel-Winther-Pedersen-Portrait-LinkedIn-wide-mt-1MB.jpg"
+  },
+  {
+    "number": 35,
+    "title": "Portrait, alternative version",
+    "group": "portraits",
+    "image": "assets/mikkel-winther-pedersen-35.jpg",
+    "download": "downloads/mikkel-winther-pedersen-35.png",
+    "width": 1024,
+    "height": 1536,
+    "credit": "Nicolai West",
+    "source": "Profile_Pictures/Mikkel-Winther_Pedersen-Profile_no_shine.png"
+  },
+  {
+    "number": 3,
+    "title": "Arktisk Festival — the audience",
+    "group": "events",
+    "image": "assets/mikkel-winther-pedersen-03.jpg",
+    "download": "downloads/mikkel-winther-pedersen-03.jpg",
+    "width": 2856,
+    "height": 2142,
+    "credit": "Mads Lumholt",
+    "source": "Profile_Pictures/Arktisk Festival 2026/IMG_5454.HEIC"
+  },
+  {
+    "number": 7,
+    "title": "Arktisk Festival — on stage",
+    "group": "events",
+    "image": "assets/mikkel-winther-pedersen-07-retouched.jpg",
+    "download": "downloads/mikkel-winther-pedersen-07-retouched.png",
+    "width": 1672,
+    "height": 941,
+    "credit": "Mads Lumholt",
+    "source": "Profile_Pictures/Arktisk Festival 2026/IMG_5458.HEIC",
+    "edited_source": "review/photo-selection/IMG_5458-cropped-retouched-v2.png",
+    "edit_note": "Cropped and retouched."
+  },
+  {
+    "number": 42,
+    "title": "At work",
+    "group": "events",
+    "image": "assets/mikkel-winther-pedersen-42.jpg",
+    "download": "downloads/mikkel-winther-pedersen-42.jpg",
+    "width": 2000,
+    "height": 1334,
+    "credit": "",
+    "source": "Profile_Pictures/PMR57448.jpg"
+  },
+  {
+    "number": 43,
+    "title": "At a workshop",
+    "group": "events",
+    "image": "assets/mikkel-winther-pedersen-43.jpg",
+    "download": "downloads/mikkel-winther-pedersen-43.jpg",
+    "width": 2000,
+    "height": 1334,
+    "credit": "",
+    "source": "Profile_Pictures/PMR57480.jpg"
+  }
+]
