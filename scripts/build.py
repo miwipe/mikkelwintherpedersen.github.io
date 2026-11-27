@@ -3,7 +3,7 @@ from html import escape
 import json
 import re
 r=Path(__file__).resolve().parents[1]
-base='https://miwipe.github.io/mikkelwintherpedersen.github.io/'
+base='https://mikkelwintherpedersen.dk/'
 cv='downloads/CV-Mikkel-Winther-Pedersen-Nov2026.pdf'
 profile='https://researchprofiles.ku.dk/en/persons/mikkel-winther-pedersen/'
 bio='Mikkel Winther Pedersen is an Associate Professor at the Globe Institute, University of Copenhagen, where he leads the Palaeo-Environmental Genomics Group. He studies DNA preserved in soil and sediments to reconstruct past ecosystems and understand how climate and human activities have shaped biodiversity. His work combines geography, genetics and bioinformatics, with field research spanning the Arctic and beyond. He contributed to the discovery of a two-million-year-old ecosystem in Greenland using environmental DNA.'

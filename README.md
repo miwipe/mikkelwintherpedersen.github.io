@@ -2,7 +2,7 @@
 
 A bilingual, responsive static website for GitHub Pages. No JavaScript, tracking, external fonts or runtime dependencies are required.
 
-Website: https://miwipe.github.io/mikkelwintherpedersen.github.io/
+Website: https://mikkelwintherpedersen.dk/
 
 ## Pages and languages
 
@@ -42,7 +42,7 @@ The builder uses only Python's standard library and does not modify images or th
 
 Publish `main` from the repository root. `.nojekyll` serves the generated HTML without a Jekyll build. The older Markdown starter files and original `images/` directory are retained, but the redesigned pages use the HTML and `assets/` files.
 
-The generated pages use the project URL above for canonical, Open Graph, sitemap and alternate-language URLs. If the domain or hosting path changes, update `base` in `scripts/build.py` and `_config.yml`, then rebuild.
+The custom domain is recorded in `CNAME`. The generated pages use its HTTPS URL above for canonical, Open Graph, structured data, sitemap and alternate-language URLs. If the domain or hosting path changes, update `base` in `scripts/build.py`, `_config.yml` and the GitHub Pages domain settings, then rebuild.
 
 ## Sources and image credits
 
@@ -66,4 +66,4 @@ Source paths in `press-photos.json` document the supplied files; they are not ru
 
 Each page has its own title and description, canonical URL and language-alternate links. JSON-LD describes Mikkel as a Person; the About page uses ProfilePage. `scripts/check_seo.py` validates this metadata locally.
 
-After deployment, use Google Search Console to submit `sitemap.xml` and inspect indexing. As this website lives in a subdirectory, its `robots.txt` does not control the host: crawlers read https://miwipe.github.io/robots.txt. Search Console and external profile updates are separate account actions.
+The custom domain serves `robots.txt` at its root and points crawlers to https://mikkelwintherpedersen.dk/sitemap.xml. After deployment, use Google Search Console to submit that sitemap and inspect indexing. Search Console and external profile updates are separate account actions.
